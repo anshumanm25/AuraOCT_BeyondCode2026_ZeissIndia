@@ -1,6 +1,6 @@
-# AuraOCT — Mid-Sprint Progress Report (Phase 1)
+# AuraOCT: Mid-Sprint Progress Report (Phase 1)
 
-**Milestone:** Phase 1 — Physics-Informed Implicit Neural Representation (INR) Engine  
+**Milestone:** Phase 1: Physics-Informed Implicit Neural Representation (INR) Engine  
 **Compute Environment:** Google Colab (NVIDIA T4 GPU)  
 **Status:** Baseline Engine Converged & Verified  
 
