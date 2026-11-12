@@ -33,7 +33,7 @@ The model was trained for **600 epochs** on an NVIDIA T4 GPU. Rapid convergence 
 
 ## 3. Visual & Qualitative Verification
 
-![Phase 1 AuraOCT Reconstruction Results](./assets/phase1_inr_results.png)
+<img width="3000" height="800" alt="phase1_reconstruction_proof" src="https://github.com/user-attachments/assets/dffd770f-106e-4363-99e5-ec35b1428fa0" />
 
 1. **Undersampled Input (Left):** Sparse axial A-line sampling with significant missing structural information across the retinal cross-section.
 2. **AuraOCT Reconstruction (Center):** Smooth, continuous recovery of primary retinal boundaries (including the Inner Limiting Membrane and RPE/choroid complex) without severe vertical interpolation streaking.
